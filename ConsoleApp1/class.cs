@@ -1,10 +1,14 @@
 using System;
 namespace ConsoleApp1
 {
-    class Program
+   partial class Program
     {
-      Console.WriteLine("created in git");
+       public void hello()
+        {
+            Console.WriteLine("created in git");
             Console.WriteLine("created");
+        }
+
     }
 }
     

@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Program
+    partial class Program
     {
         static void Main(string[] args)
         {
+            new Program().hello();
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello World");
+           
         }
     }
 }
