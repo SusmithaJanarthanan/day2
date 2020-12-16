@@ -1,7 +1,5 @@
+this is a conflict file
 
+HI ITS me..
+welcome to github command revision session
 
-
-
-
-
-this is an error
